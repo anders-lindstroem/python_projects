@@ -1,4 +1,4 @@
-# Python 
+# Welcome!
 This repository includes a curated selection of my work within the realm of programming, data- and quantitative analysis, 
 with an emphasis on finance-related topics.
 
